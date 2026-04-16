@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Nikita Shelke
 
-<!--
-**NikitaShelke03/NikitaShelke03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Engineer (2025 Graduate)  
+🤖 Specializing in Generative AI, RAG & Machine Learning  
+🚀 Passionate about building real-world AI applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 B.E. in Artificial Intelligence & Data Science (CGPA: 8.22)
+- 🤖 Skilled in Machine Learning, Deep Learning & NLP
+- 🧠 Experience with LLMs, RAG Pipelines & Prompt Engineering
+- 💼 Internship experience in Software Development
+- 🚀 Open to AI/ML opportunities
+
+---
+
+## 🛠️ Tech Stack
+Python | SQL | Machine Learning | Deep Learning | NLP  
+LLMs | RAG | LangChain | TensorFlow | OpenCV  
+Git | GitHub | Jupyter Notebook  
+
+---
+
+## 🚀 Featured Projects
+🔹 RAG Document Q&A System  
+🔹 AR Indoor Navigation System  
+🔹 Face Recognition Attendance System  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/nikita-shelke-72a133259  
+- Email: nikitashelke099@gmail.com  
+
+---
+
+⭐ "Building AI solutions that solve real-world problems"
